@@ -1,0 +1,23 @@
+{
+  "name": "nodetut",
+  "version": "1.0.0",
+  "description": "a node file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/aniket787/Node.git)"
+  },
+  "keywords": [
+    "aniket"
+  ],
+  "author": "aniket gaikwad",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "colors": "^1.4.0",
+    "simple-logger-nodejs": "^1.0.3"
+  }
+}
